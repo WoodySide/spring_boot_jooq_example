@@ -1,0 +1,1 @@
+# Spring boot Jooq PostgreSQL demo app
